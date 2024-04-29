@@ -137,3 +137,8 @@ body {
   align-items: center;
   place-items: center;
 }
+.waterMark{
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
